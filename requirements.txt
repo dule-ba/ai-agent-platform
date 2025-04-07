@@ -1,0 +1,1 @@
+fastapi\nopenai\npydantic\npython-dotenv\nuvicorn
