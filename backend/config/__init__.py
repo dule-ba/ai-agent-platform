@@ -1,1 +1,0 @@
-# Inicijalizacijski fajl za config paket 
